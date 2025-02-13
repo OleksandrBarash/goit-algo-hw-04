@@ -23,6 +23,7 @@ def total_salary(path):
         print(f"Сталася помилка: {e}")
         return 0, 0
 
+
 # Приклад використання:
 total, average = total_salary("salary_file.txt")
 print(f"Загальна сума заробітної плати: {total}, Середня заробітна плата: {average}")

@@ -19,4 +19,3 @@ def get_cats_info(path):
 
 cats_info = get_cats_info("D:\cats_file.txt")
 print(cats_info)
-
